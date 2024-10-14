@@ -18,3 +18,5 @@ pip install -r requirements.txt
 
 Run the analysis:
 python NLP_Analysis.py
+
+PI- Please include MasterDictionary (Negative Words and Positive Words) Folder and StopWords Folder in the same directory you are workng. (Not included in the repository)
