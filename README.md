@@ -11,7 +11,7 @@ Custom stop words filtering
 Getting Started:
 
 Clone the repository:
-git clone https://github.com/bhatmayur/Article-Text-Analysis.git
+git clone https://github.com/bhatmayur/Article-Text-Analysis-Tool.git
 
 Install required libraries:
 pip install -r requirements.txt
